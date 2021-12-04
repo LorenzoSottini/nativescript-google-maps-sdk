@@ -1,11 +1,10 @@
 NativeScript plugin for the Google Maps SDK
 ================
 
-====
 ### Temp fix IOS
-// FIX https://github.com/dapriett/nativescript-google-maps-sdk/issues/444
-// replace file in nativescript-google-sdk package
-=====
+FIX https://github.com/dapriett/nativescript-google-maps-sdk/issues/444
+replace file in nativescript-google-sdk package
+
 
 This is a cross-platform (iOS & Android) Nativescript plugin for the [Google Maps API](https://developers.google.com/maps/).
 
